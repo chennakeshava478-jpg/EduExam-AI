@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+*.log
+
+backend/.agents/
+backend/src/generated/prisma/
